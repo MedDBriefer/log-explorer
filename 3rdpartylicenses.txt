@@ -103,7 +103,7 @@ UNLICENSED
 
 @meddebriefer/prompt-answer-grading
 
-@nrwl/web
+@nrwl/webpack
 MIT
 (The MIT License)
 
